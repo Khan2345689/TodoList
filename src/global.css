@@ -1,0 +1,21 @@
+.header {
+  text-align: center;
+  /* margin: 0 200px; */
+}
+.container {
+  margin: 0 25%;
+}
+.todo_input {
+  display: flex;
+  justify-content: space-around;
+}
+.list_todo {
+  padding: 20px 0;
+}
+.paper_todo {
+  margin-top: 20px;
+}
+.listItem {
+  display: flex;
+  justify-content: space-between;
+}
